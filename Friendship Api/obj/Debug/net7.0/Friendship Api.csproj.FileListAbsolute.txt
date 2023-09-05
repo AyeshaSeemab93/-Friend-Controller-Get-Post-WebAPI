@@ -1,0 +1,76 @@
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/appsettings.json
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Friendship Api
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Friendship Api.deps.json
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Friendship Api.runtimeconfig.json
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Friendship Api.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Friendship Api.pdb
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/Friendship Api.csproj.AssemblyReference.cache
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/Friendship Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/Friendship Api.AssemblyInfoInputs.cache
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/Friendship Api.AssemblyInfo.cs
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/Friendship Api.csproj.CoreCompileInputs.cache
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/Friendship Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/Friendship Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/staticwebassets/msbuild.Friendship Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/staticwebassets/msbuild.build.Friendship Api.props
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Friendship Api.props
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Friendship Api.props
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/scopedcss/bundle/Friendship Api.styles.css
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/Friendship Api.csproj.CopyComplete
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/Friendship Api.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/refint/Friendship Api.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/Friendship Api.pdb
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/Friendship Api.genruntimeconfig.cache
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/obj/Debug/net7.0/ref/Friendship Api.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Azure.Core.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Azure.Identity.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Humanizer.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/s2300304/Documents/portfolio/ammatilliset-tutkinnon-osat/ohjelmisto-kehittäjä/ohjelmointi/ASP.NET/Friendship Api/Friendship Api/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
