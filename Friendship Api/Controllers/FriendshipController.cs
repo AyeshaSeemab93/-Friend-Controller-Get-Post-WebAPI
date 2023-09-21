@@ -93,7 +93,7 @@ namespace Friendship_Api.Controllers
             return Ok($"Removed {name} from all friendships.");
         }
 
-
+        //friendship receive both names as 1 string "Paavo,string"
         [HttpDelete("RemoveFriendship")]
         public IActionResult RemoveFriednship ([FromBody] string friendship)
         {
@@ -111,7 +111,7 @@ namespace Friendship_Api.Controllers
                return BadRequest("Friendship does not exist");
             }
             
-        }
+        }   
 
 
     }
